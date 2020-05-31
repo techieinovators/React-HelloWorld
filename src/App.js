@@ -8,12 +8,18 @@ export default function App() {
       <div class="ui comments">
         <h3 class="ui dividing header">Comments</h3>
         <MessageDisplay
-          text="Message 0"
+          text="Message 2"
+          sentBy="techieinovators"
+          sentTime="Today at 7:42PM"
+          avatarSource="git"
+        />
+        <MessageDisplay
+          text="Message 1"
           sentBy="Matt"
           sentTime="Today at 5:42PM"
         />
         <MessageDisplay
-          text="Message 1"
+          text="Message 0"
           sentBy="Elliot"
           sentTime="Yesterday at 7:22PM"
         />
