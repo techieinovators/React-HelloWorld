@@ -1,2 +1,2 @@
 # React Functional Component
-Created with CodeSandbox
+Hello World
